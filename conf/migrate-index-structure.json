@@ -1,0 +1,11 @@
+{
+  "es_in":"http://es_in:9200",
+  "es_out":"http://es_out:9200",
+  "mapping_dir":"/home/user/mapping/dir",
+  "mapping_list":["twitter","facebook","instagram"],
+  "update_mapping":false,
+  "index_size":[6,12,24,48],
+  "update_size":false,
+  "replicas":2,
+  "update_replicas":false
+}
